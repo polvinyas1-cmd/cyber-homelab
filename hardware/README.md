@@ -48,14 +48,6 @@ Adding horizontal support beams for improved stability.
 
 ---
 
-## 05 - Electronics Mount
-
-Temporary mounting area for electronics and internal components.
-
-![Electronics Mount](05-cross-support.jpg)
-
----
-
 ## 06 - Mainboard Integration
 
 Original Ender 3 electronics reused for testing and power distribution experiments.
