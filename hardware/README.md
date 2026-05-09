@@ -66,7 +66,7 @@ A close up of the creality base board
 
 ## 07 - Power supply installation
 
-A photo to show the powwer supply installation 
+A photo to show the power supply installation 
 
 ![Reinforcement](08-power-supply-test.jpg)
 
