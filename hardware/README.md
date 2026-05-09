@@ -32,17 +32,17 @@ Building the first structural base using the aluminum profiles.
 
 ---
 
-## 03 - Vertical Frame Structure
+## 03 - Cross support
 
-Mounting the vertical supports and testing frame dimensions.
+Adding horizontal support beams for improved stability.
 
 ![Vertical Structure](03-vertical-frame.jpg)
 
 ---
 
-## 04 - Cross Support Installation
+## 04 - Vertical upper profile
 
-Adding horizontal support beams for improved stability.
+Attaching vertical upper profile for low-weigted accesories
 
 ![Cross Support](04-frame-top.jpg)
 
@@ -56,17 +56,17 @@ Original Ender 3 electronics reused for testing and power distribution experimen
 
 ---
 
-## 06 - Power Supply Mounting
+## 06 - Close Up
 
-Initial PSU positioning and cable management testing.
+A close up of the creality base board
 
 ![PSU Mount](07-mainboard-closeup.jpg)
 
 ---
 
-## 07 - Structure Reinforcement
+## 07 - Power supply installation
 
-Additional adjustments to improve rigidity and modularity.
+A photo to show the powwer supply installation 
 
 ![Reinforcement](08-power-supply-test.jpg)
 
