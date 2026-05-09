@@ -28,7 +28,7 @@ Initial disassembly and preparation of the printer frame components.
 
 Building the first structural base using the aluminum profiles.
 
-![Base Frame](02-base-frame.jpg)
+![Base Frame](02-frame-start.jpg)
 
 ---
 
@@ -44,7 +44,7 @@ Mounting the vertical supports and testing frame dimensions.
 
 Adding horizontal support beams for improved stability.
 
-![Cross Support](04-cross-support.jpg)
+![Cross Support](04-frame-top.jpg)
 
 ---
 
@@ -52,7 +52,7 @@ Adding horizontal support beams for improved stability.
 
 Temporary mounting area for electronics and internal components.
 
-![Electronics Mount](05-mainboard.jpg)
+![Electronics Mount](05-cross-support.jpg)
 
 ---
 
@@ -60,7 +60,7 @@ Temporary mounting area for electronics and internal components.
 
 Original Ender 3 electronics reused for testing and power distribution experiments.
 
-![Mainboard](06-electronics.jpg)
+![Mainboard](06-electronics-mount.jpg)
 
 ---
 
@@ -68,7 +68,7 @@ Original Ender 3 electronics reused for testing and power distribution experimen
 
 Initial PSU positioning and cable management testing.
 
-![PSU Mount](07-power-supply.jpg)
+![PSU Mount](07-mainboard-closeup.jpg)
 
 ---
 
@@ -76,7 +76,7 @@ Initial PSU positioning and cable management testing.
 
 Additional adjustments to improve rigidity and modularity.
 
-![Reinforcement](08-frame-reinforcement.jpg)
+![Reinforcement](08-power-supply-test.jpg)
 
 ---
 
