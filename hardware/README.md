@@ -48,7 +48,7 @@ Adding horizontal support beams for improved stability.
 
 ---
 
-## 06 - Mainboard Integration
+## 05 - Mainboard Integration
 
 Original Ender 3 electronics reused for testing and power distribution experiments.
 
@@ -56,7 +56,7 @@ Original Ender 3 electronics reused for testing and power distribution experimen
 
 ---
 
-## 07 - Power Supply Mounting
+## 06 - Power Supply Mounting
 
 Initial PSU positioning and cable management testing.
 
@@ -64,7 +64,7 @@ Initial PSU positioning and cable management testing.
 
 ---
 
-## 08 - Structure Reinforcement
+## 07 - Structure Reinforcement
 
 Additional adjustments to improve rigidity and modularity.
 
@@ -72,7 +72,7 @@ Additional adjustments to improve rigidity and modularity.
 
 ---
 
-## 09 - Current Location / Setup
+## 08 - Current Location / Setup
 
 Current state and physical placement of the node structure.
 
