@@ -31,7 +31,7 @@ Extra security and networking tools used in the homelab enviornment.
 
 ### Agent installation
 ![agent](02-wazuh-install-edit1.jpg)
-![agent](03-wazuh-install-too.jpg)
+![agent](03-wazuh-install-too-edit.jpg)
 ![agent](04-comand-4-agent.jpg)
 ![agent](05-agent-enable.jpg)
 
