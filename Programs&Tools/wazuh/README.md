@@ -10,6 +10,20 @@ Wazuh is used as the central SIEM/XDR platform in this homelab.
 - Basic intrusion detection active
 - SSH monitoring enabled
 
+## Skills learned
+- Linux administration
+- SIEM deployment
+- Network monitoring
+- Agent management
+- SSH remote administration
+- Log analysis
+- Security event investigation
+
+## Additional tools
+Extra security and networking tools used in the homelab enviornment.
+- Fail2Ban for SSH brute-force protection
+- Nmap for network scanning and host discovery
+
 ## Screenshots
 
 ### Dashboard
@@ -26,3 +40,7 @@ Wazuh is used as the central SIEM/XDR platform in this homelab.
 
 ### Example alert
 ![alert](07-wazuh-example-alert.png)
+
+### Fail2Ban and Nmap tools as an extra
+![alert](09-fail2ban-installed.jpg)
+![alert](08-Nmap-example.jpg)
